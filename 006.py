@@ -1,3 +1,7 @@
+# author: naestech
+# day: 6
+# link: https://adventofcode.com/2024/day/6
+
 def find_start(grid):
     for r in range(len(grid)):
         for c in range(len(grid[r])):

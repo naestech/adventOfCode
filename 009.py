@@ -1,3 +1,7 @@
+# author: naestech
+# day: 9
+# link: https://adventofcode.com/2024/day/9
+
 def parse_input(puzzle_input):
     return [int(c) for c in puzzle_input.strip()]
 

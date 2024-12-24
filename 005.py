@@ -1,3 +1,7 @@
+# author: naestech
+# day: 5
+# link: https://adventofcode.com/2024/day/5
+
 from collections import defaultdict, deque
 
 def parse_rules(rules_text):

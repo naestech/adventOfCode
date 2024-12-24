@@ -1,3 +1,7 @@
+# author: naestech
+# day: 19
+# link: https://adventofcode.com/2024/day/19
+
 def count_ways(design, patterns, memo=None):
     if memo is None:
         memo = {}

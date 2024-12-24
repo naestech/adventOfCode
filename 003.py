@@ -1,3 +1,7 @@
+# author: naestech
+# day: 3
+# link: https://adventofcode.com/2024/day/3
+
 import re
 
 def process_multiplications(input_text):

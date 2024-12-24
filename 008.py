@@ -1,3 +1,7 @@
+# author: naestech
+# day: 8
+# link: https://adventofcode.com/2024/day/8
+
 def find_antinodes(grid):
     grid = [list(line) for line in grid.strip().split('\n')]
     rows = len(grid)

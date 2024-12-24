@@ -1,3 +1,7 @@
+# author: naestech
+# day: 11
+# link: https://adventofcode.com/2024/day/11
+
 def solve(x: int, t: int, dp: dict = None) -> int:
     """Calculate how many stones result from stone x after t steps"""
     if dp is None:

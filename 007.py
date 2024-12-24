@@ -1,3 +1,7 @@
+# author: naestech
+# day: 7
+# link: https://adventofcode.com/2024/day/7
+
 def check_sequence(target, numbers):
     def evaluate_with_operators(nums, ops):
         result = nums[0]

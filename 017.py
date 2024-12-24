@@ -1,3 +1,6 @@
+# author: naestech
+# day: 17
+# link: https://adventofcode.com/2024/day/17
 
 puzzle_input = """
 Register A: 30878003

@@ -1,3 +1,7 @@
+# author: naestech
+# day: 1
+# link: https://adventofcode.com/2024/day/1
+
 def processPairs(text):
     list1 = []
     list2 = []

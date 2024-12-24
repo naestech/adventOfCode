@@ -1,3 +1,7 @@
+# author: naestech
+# day: 14
+# link: https://adventofcode.com/2024/day/14
+
 puzzleInput = """
 p=54,45 v=-37,75
 p=39,0 v=-91,50

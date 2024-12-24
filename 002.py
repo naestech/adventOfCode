@@ -1,3 +1,7 @@
+# author: naestech
+# day: 2
+# link: https://adventofcode.com/2024/day/2
+
 def is_safe_row(numbers):
     if len(numbers) <= 1:
         return True

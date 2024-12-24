@@ -1,3 +1,7 @@
+# author: naestech
+# day: 18
+# link: https://adventofcode.com/2024/day/18
+
 from collections import deque
 
 def has_path_to_exit(G, N):

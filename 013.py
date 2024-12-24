@@ -1,3 +1,7 @@
+# author: naestech
+# day: 13
+# link: https://adventofcode.com/2024/day/13
+
 def parse_input(text):
     machines = []
     current_machine = []

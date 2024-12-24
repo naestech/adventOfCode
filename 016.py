@@ -1,3 +1,7 @@
+# author: naestech
+# day: 16
+# link: https://adventofcode.com/2024/day/16
+
 from heapq import heappush, heappop
 from collections import defaultdict
 

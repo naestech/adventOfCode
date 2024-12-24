@@ -1,3 +1,6 @@
+# author: naestech
+# day: 15
+# link: https://adventofcode.com/2024/day/15
 
 puzzleInput = """
 ##################################################
